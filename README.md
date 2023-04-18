@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 <br>
 
 ### Coding Activity
-![](https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg#gh-dark-mode-only)
-![](https://wakatime.com/share/@Frenvius/7c66a896-6cb8-4bde-9f96-23aceccfe097.svg#gh-light-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Frenvius/7c66a896-6cb8-4bde-9f96-23aceccfe097.svg">
+  <img src="https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg">
+</picture>
