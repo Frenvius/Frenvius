@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Frenvius/7c66a896-6cb8-4bde-9f96-23aceccfe097.svg">
-  <img src="https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg" style="width:100%">
+  <img src="https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg" style="width:100% !important">
 </picture>
