@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+### Coding Activity
+![](https://wakatime.com/share/@Frenvius/9cb60484-dc7d-42fc-bdff-d3d4d4e1281c.svg)
